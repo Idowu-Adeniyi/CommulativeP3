@@ -1,0 +1,20 @@
+﻿@model ComulativePart1.Models.Teacher
+@{
+    ViewBag.Title = "Show";
+}
+
+
+<div id="containershow">
+    <nav>
+        <a class="navlink" href="/Teacher/List">Back To Teachers</a>&nbsp;
+        <a class="dellink" href="/Teacher/DeleteConfirm/@Model.TeacherId">Delete</a>
+    </nav>
+    <h2>@Model.TeacherFname @Model.TeacherLname</h2>
+    <p style="font-style:italic;">Member Since @Model.TeacherHireDate.ToString("dd-MMM-yyyy")</p>
+    <p>@Model.Salary</p>
+</div>
+
+
+
+
+
