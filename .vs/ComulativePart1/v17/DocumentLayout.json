@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\comulativepart1\\views\\teacher\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|solutionrelative:comulativepart1\\views\\teacher\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|c:\\users\\adeni\\documents\\actualcommulativep3\\commulativep3\\comulativepart1\\views\\teacher\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|solutionrelative:comulativepart1\\views\\teacher\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\comulativepart1\\scripts\\teachers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|solutionrelative:comulativepart1\\scripts\\teachers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\comulativepart1\\views\\teacher\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|solutionrelative:comulativepart1\\views\\teacher\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\comulativepart1\\views\\teacher\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|solutionrelative:comulativepart1\\views\\teacher\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\comulativepart1\\views\\teacher\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED0C0E86-56AF-4FC1-9282-B92BA731C509}|ComulativePart1\\ComulativePart1.csproj|solutionrelative:comulativepart1\\views\\teacher\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\ComulativePart1\\Views\\Teacher\\Update.cshtml",
+              "RelativeDocumentMoniker": "ComulativePart1\\Views\\Teacher\\Update.cshtml",
+              "ToolTip": "C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\ComulativePart1\\Views\\Teacher\\Update.cshtml",
+              "RelativeToolTip": "ComulativePart1\\Views\\Teacher\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T02:52:04.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\ComulativePart1\\Views\\Teacher\\Add.cshtml",
+              "RelativeDocumentMoniker": "ComulativePart1\\Views\\Teacher\\Add.cshtml",
+              "ToolTip": "C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\ComulativePart1\\Views\\Teacher\\Add.cshtml",
+              "RelativeToolTip": "ComulativePart1\\Views\\Teacher\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T02:51:38.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "teachers.js",
+              "DocumentMoniker": "C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\ComulativePart1\\Scripts\\teachers.js",
+              "RelativeDocumentMoniker": "ComulativePart1\\Scripts\\teachers.js",
+              "ToolTip": "C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\ComulativePart1\\Scripts\\teachers.js",
+              "RelativeToolTip": "ComulativePart1\\Scripts\\teachers.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-17T02:41:29.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\ComulativePart1\\Views\\Teacher\\New.cshtml",
+              "RelativeDocumentMoniker": "ComulativePart1\\Views\\Teacher\\New.cshtml",
+              "ToolTip": "C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\ComulativePart1\\Views\\Teacher\\New.cshtml",
+              "RelativeToolTip": "ComulativePart1\\Views\\Teacher\\New.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T02:36:27.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\ComulativePart1\\Views\\Teacher\\Show.cshtml",
+              "RelativeDocumentMoniker": "ComulativePart1\\Views\\Teacher\\Show.cshtml",
+              "ToolTip": "C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\ComulativePart1\\Views\\Teacher\\Show.cshtml",
+              "RelativeToolTip": "ComulativePart1\\Views\\Teacher\\Show.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T02:36:20.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\ComulativePart1\\Views\\Teacher\\List.cshtml",
+              "RelativeDocumentMoniker": "ComulativePart1\\Views\\Teacher\\List.cshtml",
+              "ToolTip": "C:\\Users\\adeni\\Documents\\ActualCommulativeP3\\CommulativeP3\\ComulativePart1\\Views\\Teacher\\List.cshtml",
+              "RelativeToolTip": "ComulativePart1\\Views\\Teacher\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T02:26:03.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
